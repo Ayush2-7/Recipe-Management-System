@@ -56,8 +56,6 @@ Select Run As > Run on Server.
 
 Choose Apache Tomcat v10.1.
 
-Access the app at: http://localhost:8080/RecipeApp/
-
 📸 Key Features (CRUD)
 Create: Add recipe titles and ingredients via a Bootstrap-styled form.
 
